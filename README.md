@@ -4,7 +4,7 @@
 
 This project used 3 data sources from kaggle, data world, and the United States Department of Health and Human Services.  The data sets were saved down as CSVs. 
 
-The data sets show:
+These data sets illustrate:
 
 1) covid cases by state
 2) HHS relief funds provided
